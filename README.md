@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
-I put the image and the text into <div> and then changed its background.
+I put the image and the text into div and then changed its background.
 
 ### Built with
 
